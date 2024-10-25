@@ -4,4 +4,11 @@
     <string name="second">두번째 숫자</string>
     <string name="calcu">계산</string>
     <string name="result">결과</string>
+
+    <string-array name="operations">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
 </resources>
